@@ -6,13 +6,13 @@ entries:
         url: http://cs.hanyang.ac.kr
       - title: Hanyang University
         url: https://hanyang.ac.kr
-      - title: "<a href='https://github.com/taeyoung-1'>github</a>"
+      - title: "<a href='https://github.com/taeyoung-1'>github</a> | <a href='/files/cv.pdf'>cv</a>"
   - title: contact
     entries:
-      - title: "taeyoung210@hanyang.ac.kr"
+      - title: "taeyoung210@hanyang.ac.kr | taeyoung.yoon@sf.snu.ac.kr"
   - title: education
     entries:
-      - title: B.S. in Computer Science and Mathematics, 2018 - Current.
+      - title: "Mar.2018-Feb.2024: B.S. in Computer Science and Mathematics at Hanyang University"
 
   #   url: https://github.com/riggraz/no-style-please
   # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
